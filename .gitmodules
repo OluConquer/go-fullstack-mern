@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-en.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/OluConquer/backend-go-fullstack-mern.git
